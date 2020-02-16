@@ -1,3 +1,3 @@
 # New-hello-world
 Exercise to learn github
-I am lerning github.
+This is a new commit
